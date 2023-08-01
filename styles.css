@@ -90,9 +90,29 @@ button{
     color: #e5e7eb;
 }
 .grid-item img{
-    width: 250px;
-    height: 200px;
+    width: 275px;
+    height: 230px;
 }
 .grid-item p{
 margin:10px 0 0;
+}
+/* SECTION 3. ALMOST HOME */
+.section3{
+    background-color: #b38d55;
+}
+.quote p{
+    padding: 5% 14%;
+    font-size: 36px;
+    font-style: italic;
+    color: #333333;
+}
+/* footer */
+.footer{
+    background-color: #8B4513;
+    font-size: 24px;
+}
+.footer pre{
+    text-align: center;
+    padding: 5% 14%;
+
 }
